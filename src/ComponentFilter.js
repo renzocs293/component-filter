@@ -9,11 +9,11 @@ export class ComponentFilter extends LitElement {
         color: var(--component-filter-text-color, #000);
       }
       button{
-        background-color: blue;
+        background-color: red;
         color:  white;
         width: 200px;
         height: 30px;
-        border-radius: 5px;
+        border-radius: 10px;
       }
     `;
   }
